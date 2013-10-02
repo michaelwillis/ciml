@@ -1,6 +1,10 @@
 # ciml
 
-Clojure implementation of the chapter assignments from [A Course in Machine Learning](http://ciml.info/)
+This project is a Clojure implementation of the chapter assignments from [A Course in Machine Learning](http://ciml.info/)
+
+Currently only chapter 1 is implemented, more to come later.
+
+[Go to the wiki](https://github.com/willismichael/ciml/wiki) to read step-by-step notes on the development of each chapter.
 
 ## Acknowledgement
 
