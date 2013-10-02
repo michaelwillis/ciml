@@ -2,9 +2,11 @@
 
 This project is a Clojure implementation of the chapter assignments from [A Course in Machine Learning](http://ciml.info/)
 
-Currently only chapter 1 is implemented, more to come later.
+[Overview](https://github.com/willismichael/cimlwiki/Overview)
 
-[Go to the wiki](https://github.com/willismichael/ciml/wiki) to read step-by-step notes on the development of each chapter.
+[Project Setup](https://github.com/willismichael/cimlwiki/Project-Setup)
+
+[Chapter 1: Decision Trees](https://github.com/willismichael/cimlwiki/Chapter-1:-Decision-Trees)
 
 ## Acknowledgement
 
