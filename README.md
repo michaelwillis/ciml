@@ -8,6 +8,8 @@ This project is a Clojure implementation of the chapter assignments from [A Cour
 
 [Chapter 1: Decision Trees](https://github.com/willismichael/ciml/wiki/Chapter-1:-Decision-Trees)
 
+[Chapter 2: Geometry and Nearest Neighbors](https://github.com/willismichael/ciml/wiki/Chapter-2:-Geometry-and-Nearest-Neighbors)
+
 ## Acknowledgement
 
 Thanks to [Hal Daumé III](http://www.umiacs.umd.edu/~hal/) for making [A Course in Machine Learning](http://ciml.info/) freely available.
